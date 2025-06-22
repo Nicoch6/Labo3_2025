@@ -1,0 +1,6 @@
+# Ignorar carpetas de datos y salidas
+data/
+salidas/
+
+# Ignorar el entorno virtual
+env/
