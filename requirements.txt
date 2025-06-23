@@ -8,3 +8,7 @@ sweetviz
 ydata-profiling
 autoviz
 dtale
+ipykernel
+pyarrow 
+fastparquet
+holidays
